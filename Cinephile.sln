@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinephileLibrary", "KinomaniakLibrary\CinephileLibrary.csproj", "{3B0EB763-2F3F-459B-A87B-7655A25C0B65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinephileUI", "KinomaniakUI\CinephileUI.csproj", "{D9AB2A2E-A699-434F-9186-D17AF9528EA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B0EB763-2F3F-459B-A87B-7655A25C0B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0EB763-2F3F-459B-A87B-7655A25C0B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0EB763-2F3F-459B-A87B-7655A25C0B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0EB763-2F3F-459B-A87B-7655A25C0B65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9AB2A2E-A699-434F-9186-D17AF9528EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9AB2A2E-A699-434F-9186-D17AF9528EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9AB2A2E-A699-434F-9186-D17AF9528EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9AB2A2E-A699-434F-9186-D17AF9528EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BDB6C96-455D-4685-8D37-48834748F868}
+	EndGlobalSection
+EndGlobal
