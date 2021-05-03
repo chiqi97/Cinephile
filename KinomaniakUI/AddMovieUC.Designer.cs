@@ -60,7 +60,7 @@ namespace StrongaGlownaUI
             this.addMovieButton.Name = "addMovieButton";
             this.addMovieButton.Size = new System.Drawing.Size(116, 43);
             this.addMovieButton.TabIndex = 1;
-            this.addMovieButton.Text = "Dodaj Film";
+            this.addMovieButton.Text = "Add Movie";
             this.addMovieButton.UseVisualStyleBackColor = false;
             this.addMovieButton.Click += new System.EventHandler(this.addMovieButton_Click);
             // 
